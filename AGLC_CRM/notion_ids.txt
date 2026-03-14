@@ -1,0 +1,15 @@
+AGLC CRM Notion IDs
+====================
+Main Page: 32362925-88f9-8146-8af1-dae251a4c26c
+  URL: https://www.notion.so/3236292588f981468af1dae251a4c26c
+
+Sub-Pages:
+  Strategic Documents: 32362925-88f9-81c7-bde0-d7c93f25fb6c
+  Project Management: 32362925-88f9-8153-992a-e954cd4c2d0b
+  Implementation Roadmap: 32362925-88f9-8183-8280-fd10eaeed9d3
+  Team Directory: 32362925-88f9-8187-94b5-eb97a6ff3a51
+  Visual Diagrams: 32362925-88f9-816a-98ae-fd9c08ded4f2
+
+Database:
+  Task Tracker DB: https://www.notion.so/531eb44676164946b2b22f58a47b3e3e
+  Data Source ID: edafb7c1-68da-44b8-b08b-38c8390e09e5
